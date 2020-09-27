@@ -7,7 +7,7 @@ public class homeWork_3 {
 
 
         //Name
-        String name = "Eduart ZiNa";
+        String name = "Eduart ZiNA";
         name = name.replace(" ","");
         System.out.println(name);
         int nameLength = name.length();
@@ -18,9 +18,12 @@ public class homeWork_3 {
         System.out.println("My name start with: "+subName);
         boolean endWith = name.endsWith("M");
         System.out.println("Does my last name end with letter M? "+endWith);
+        String findLast = name.substring(nameLength-1);
+        System.out.println("The last letter is: ("+findLast+").");
 
         //I am a good programmer
         String myStatement = "I am a good programmer";
+        myStatement = myStatement.replace(" ", "");
         int statementLength = myStatement.length();
         System.out.println("I just count "+statementLength+" characters.");
         String replaceString = myStatement.replace('r', 'f');
