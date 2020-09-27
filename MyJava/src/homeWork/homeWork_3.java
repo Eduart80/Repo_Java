@@ -5,17 +5,19 @@ import java.util.Arrays;
 public class homeWork_3 {
     public static void main(String[] args) {
 
+
         //Name
         String name = "Eduart ZiNa";
+        name = name.replace(" ","");
+        System.out.println(name);
         int nameLength = name.length();
-        System.out.println("Name length: "+nameLength);
+        System.out.println("I have "+nameLength+" letters in my name.");
         boolean nameChar = name.startsWith("K");
         System.out.println("Does my name start with letter K ? : "+nameChar);
         String subName = name.substring(0,1);
         System.out.println("My name start with: "+subName);
         boolean endWith = name.endsWith("M");
         System.out.println("Does my last name end with letter M? "+endWith);
-
 
         //I am a good programmer
         String myStatement = "I am a good programmer";
