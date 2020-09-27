@@ -36,12 +36,22 @@ public class homeWork_3 {
 
         //hello dear, how are you?
         String hello = "hello my dear, how are you?";
+        hello = hello.replace(" ,?","");
         int count2 = hello.lastIndexOf("");
         String resultCount = count2>10?"This is true, more than 10. ":"This is less than 10.";
         System.out.println(resultCount);
 
+        /*
+        //hello dear, how are you?
+        String hello = "hello my dear, how are you?";
+        int count2 = hello.lastIndexOf("");
+        String resultCount = count2>10?"This is true, more than 10. ":"This is less than 10.";
+        System.out.println(resultCount);
+         */
+
         //hello dear, how are you? # 2
         String hello2 = "hello my dear, how are you?";
+        hello2 = hello2.replace(" ,?","");
         int countM = hello2.length();
         boolean helloboo = (countM>10);
         System.out.println("Word count is more than 10 - "+helloboo+".");
