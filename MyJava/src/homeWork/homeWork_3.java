@@ -14,12 +14,33 @@ public class homeWork_3 {
         System.out.println("I have "+nameLength+" letters in my name.");
         boolean nameChar = name.startsWith("K");
         System.out.println("Does my name start with letter K ? : "+nameChar);
+        String nameE = "Eduart Zina";
+        String[] lastName = nameE.split(" ");
+        boolean lastNameIni = lastName[1].startsWith("k");
+        String lastNameStart = lastName[1].substring(0,1);
+        System.out.println("My last name start with K? "+lastNameIni+" it start with "+lastNameStart);
         String subName = name.substring(0,1);
         System.out.println("My name start with: "+subName);
         boolean endWith = name.endsWith("M");
         System.out.println("Does my last name end with letter M? "+endWith);
         String findLast = name.substring(nameLength-1);
         System.out.println("The last letter is: ("+findLast+").");
+        /*
+        //Name
+        String name = "Eduart ZiNA";
+        name = name.replace(" ","");
+        System.out.println(name);
+        int nameLength = name.length();
+        System.out.println("I have "+nameLength+" letters in my name.");
+        boolean nameChar = name.startsWith("K");
+        System.out.println("Does my name start with letter K ? : "+nameChar);
+        String subName = name.substring(0,1);
+        System.out.println("My name start with: "+subName);
+        boolean endWith = name.endsWith("M");
+        System.out.println("Does my last name end with letter M? "+endWith);
+        String findLast = name.substring(nameLength-1);
+        System.out.println("The last letter is: ("+findLast+").");
+         */
 
         //I am a good programmer
         String myStatement = "I am a good programmer";
@@ -28,6 +49,9 @@ public class homeWork_3 {
         System.out.println("I just count "+statementLength+" characters.");
         String replaceString = myStatement.replace('r', 'f');
         System.out.println("Replace r with f: "+replaceString);
+        String myStatement2 = "I am a good programmer";
+        String[] countWords = myStatement2.split(" ");
+        System.out.println("We have "+countWords.length+" arrays in the string.");
 
         //Storing name
         String identification = "eduart";
