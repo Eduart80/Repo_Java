@@ -35,7 +35,19 @@ public class homeWork_8 {
                 int input3 = input.nextByte();
                 a1.inkFill(input3);
             }
-
+            ///Paper fill
+            if(a1.page<=0){
+                Scanner inputInk = new Scanner(System.in);
+                System.out.println("No more paper, do you want to refill? (Y), (N)");
+                char Y = entry.next().charAt(0);
+                if(Y == 'y'){
+                    //enter paper
+                    int input4 = input.nextByte();
+                    a1.paperFill(input4);
+                }else {
+                    System.out.println("Have a good day.");
+                }
+            }
             a1.Levels();
         }
         ///// double selection
@@ -54,6 +66,19 @@ public class homeWork_8 {
                 System.out.println("Enter it now...");
                 int input3 = input.nextByte();
                 a1.inkFill(input3);
+            }
+            ///Paper fill
+            if(a1.page<=0){
+                Scanner inputInk = new Scanner(System.in);
+                System.out.println("No more paper, do you want to refill? (Y), (N)");
+                char Y = entry.next().charAt(0);
+                if(Y == 'y'){
+                    //enter paper
+                    int input4 = input.nextByte();
+                    a1.paperFill(input4);
+                }else {
+                    System.out.println("Have a good day.");
+                }
             }
             a1.Levels();
         }
