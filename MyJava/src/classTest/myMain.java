@@ -12,13 +12,12 @@ public class myMain {
        ////   2
         int[] arr = {1, 3, 5, 4, 6, 8};
         a1.findMissing(arr);
-        /// 3
 
-        int userspeed = 112 ;
+        /// 3
+        int userspeed = 166;
         a1.speed(userspeed);
-        System.out.println("Your speed limit is "+ a1.getSpeedLimit(userspeed));
-        System.out.println("You have "+a1.points(userspeed)+" points left.");
-       // System.out.println(a1.point);
+        a1.points(userspeed);
+
 
 
     }

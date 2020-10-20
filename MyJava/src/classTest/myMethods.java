@@ -17,7 +17,6 @@ public class myMethods {
         int missing = 0;
 
         for(int i=0; i<arr.length ; i++) {
-             missing = arr[i];
              missing= arr[i]+1;
         }
          System.out.println("lesh "+missing);
@@ -26,26 +25,24 @@ public class myMethods {
 
 
     public int speedLimit = 70;
-    public int over  =5;
+    public int speed ;
     public int point = 12;
 
-    public int speed(int user){
-        speedLimit = user;
-        return speedLimit;
+    public void speed(int user){
+        speed = user;
+        System.out.println("Speed limit 70, your speed is "+speed);
     }
-    public int getSpeedLimit(int num) {
-        if (num < 70) {
-            return speedLimit;
-        }else {
-            speedLimit = speedLimit + over;
-            return speedLimit;
-        }
-    }
-    public int points(int user){
 
-        if(speedLimit>5){
-            point = point-1;
+    public void points(int numb){
+        int res = 0;
+        if ( speed > speedLimit)
+        {
+            res = (speed-speedLimit)/5;
+            point= point-res;
+        }if(point<0){
+            System.out.println("You have no more points in your licence.");
         }
-        return point;
+        System.out.println("you have "+point+" points.");
     }
+    
 }
