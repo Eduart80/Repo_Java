@@ -1,4 +1,4 @@
-package homework;
+package homeWork;
 
 import java.util.Scanner;
 
@@ -32,7 +32,7 @@ public class homeWork2 {
          */
         double tmFahrenheit = 100;
         double tmKelvin = (tmFahrenheit + 459.67)  * 5/9;
-        System.out.println("100 deg fahrenheit is equal to "+ tmKelvin + " degree Kelvin" );
+        System.out.println("100 deg fahrenheit is equal to "+ tmKelvin + " Kelvin" );
 
         /*    Celsius to Fahrenheit
          *    T(°F) = T(°C) × 9/5 + 32
@@ -46,7 +46,7 @@ public class homeWork2 {
          */
         double tmpCelsius = 10;
         double tmpKelvin = tmpCelsius + 273.15;
-        System.out.println("10 deg Celsius is equal to "+ tmpKelvin + " degree Kelvin" );
+        System.out.println("10 deg Celsius is equal to "+ tmpKelvin + " Kelvin" );
 
 
     }

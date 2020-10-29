@@ -14,6 +14,8 @@ public class homeWork_6 {
         System.out.println("My name is "+myToo());
 
         youR();
+
+
     }
 
     public static void fillArray(int[] arr) {
@@ -42,5 +44,6 @@ public class homeWork_6 {
         int time2 = 35;            //int data
         System.out.println("Combination of String and Int "+time+" & "+time2+" seconds.");
     }
+
 
 }

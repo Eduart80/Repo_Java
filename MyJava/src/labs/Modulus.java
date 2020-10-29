@@ -11,7 +11,6 @@ public class Modulus {
         System.out.println("ok-: "+proIn);
         int a1 = proIn;
 
-
         Scanner pro2 = new Scanner(System.in);
         System.out.print("Divided by #  ");
         int proIn2 = pro.nextInt();

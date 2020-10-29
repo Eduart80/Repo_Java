@@ -1,4 +1,4 @@
-package Java_Class;
+package classWork;
 
 import java.util.Scanner;
 

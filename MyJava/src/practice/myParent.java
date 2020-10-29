@@ -1,6 +1,6 @@
 package practice;
 
-public class myParent {
+public class myParent extends arrayTest{
     public myParent(){  /// Constructor, default entry , no need to call from main
         System.out.println("Default message from myParent class constructor");
     }

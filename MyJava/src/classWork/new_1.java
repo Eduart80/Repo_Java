@@ -1,4 +1,4 @@
-package Java_Class;
+package classWork;
     public class new_1 {
 
             public static void main(String[] args) {

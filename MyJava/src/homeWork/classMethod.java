@@ -37,4 +37,16 @@ public class classMethod {
             }
         }
     }
+    public void findArrays2(String[] value1, String value3){
+        for (int i=0; i<value1.length; i++){
+            if(value3.contains(value1[i])){
+                System.out.println(value1[i]);
+            }
+        }
+//        for (int i=0; i<value2.length; i++){
+//            if (value3.contains(value2[i])) {
+//                System.out.println(value2[i]);
+//            }
+//        }
+    }
 }

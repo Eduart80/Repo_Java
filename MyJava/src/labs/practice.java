@@ -1,4 +1,4 @@
-package lab;
+package labs;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ public class practice {
     public static void main(String[] args) {
         //question 1
         Scanner userInput = new Scanner(System.in);
-        System.out.print("Input name: ");  //print method use the same line to right input
+        System.out.print("Your  name ? ");  //print method use the same line to right input
 
         String emptyArea = userInput.nextLine().trim();  //Trim is to remove the space in front of the text input
         System.out.println("hi there: " + emptyArea);
@@ -31,7 +31,7 @@ public class practice {
         System.out.print( " ");
 
         String userAnswer2 = userAnswer.nextLine().trim();  //Trim is to remove the space in front of the text input
-        System.out.println("Ok, ... " + userAnswer2);
+        System.out.println("Ok,.. " + userAnswer2);
 
 
 

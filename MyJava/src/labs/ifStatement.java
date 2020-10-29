@@ -8,6 +8,8 @@ public class ifStatement {
         /*   old if-else operator
         if(condition) {
             Statement-1(blablabla);
+        } else if (condition 2){
+            //code
         }
         else {
             Statement-2(String-blabla);
@@ -36,6 +38,46 @@ public class ifStatement {
         String userOut = userIn2<50?"This is cheap fish.":"This is very expensive.";
 
         System.out.println(userOut);
+        /*
+         * if (condition(s)) {
+         *      // 1st if block
+         * } else if (condition(s)) {
+         *      // 2nd if block
+         * } else {
+         *      // else block
+         * }
+
+        int num = 121;
+        if ((num%2)==0){
+            System.out.println("yes is even" );
+        }else{
+            System.out.println("try agin");
+        }*/
+        String name = "Happy";
+        boolean result2 = true;
+        int number2 = 22;
+        /**
+         * if name length is greater than 10 and number is greater than 5
+         * print the below:
+         *      name in all uppercase
+         *      and replace p with b in name
+         * else
+         * make result as false
+         *
+         *
+         * sout(result) // outside the if-else block
+         */
+        String name1 = "Happy";
+        boolean result = true;
+        int number = 22;
+
+        if (name.length()>10 && number>5){
+            name1.toUpperCase().replace("p", "p");
+
+        }else {
+            result=false;
+        }
+        System.out.println(result);  //is outside if-else
 
     }
 }

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class methodForHomeWork_8 {
 
     int toner = 10;
-    int  page = 50;
+    int  page = 12;
 
     public void Levels(){
         int tonerL = toner;
@@ -76,7 +76,7 @@ public class methodForHomeWork_8 {
     }
     /// double pages use
     public void userInkDouble(int newEntry){
-        toner = toner - (newEntry *2);
+        toner = toner - (newEntry *2 + 1);
         System.out.println("Toner level "+toner);
         if(toner<10){
             System.out.println("Ink level Low, please refill toner.");

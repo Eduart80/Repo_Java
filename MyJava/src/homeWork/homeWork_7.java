@@ -3,9 +3,7 @@ package homeWork;
 import java.util.Scanner;
 
 public class homeWork_7 {
-    /**
-     * 1. Create a method to add all the numbers in a array with double-values
-     */
+
     public static void main(String[] args) {
         ///connection method link
         classMethod a1 = new classMethod();
@@ -60,7 +58,9 @@ public class homeWork_7 {
          */
         String[] array = {"hello", "peace", "happy", "n" , "hello", "Happy", "hello","ball"};
         String input = "hello, happy , n";
+        System.out.println("NAME FOUND: ");
         a1.findDub(array , input);
+
         ///////// separator
         System.out.println("\n");
         /*
@@ -77,10 +77,10 @@ public class homeWork_7 {
         String[] arr1 = {"start", "peace", "happy" , "hello", "Happy", "hello", "laugh"};
         String[] arr2 = {"hello", "grow", "laugh" , "peace","end"};
         String find = "start, peace, laugh, end";
-        a1.findArrays(arr1 , arr2 , find );
-
-
-
+        System.out.println("NAME FOUND: ");
+        a1.findArrays(arr1, arr2, find);
+        String[] add = arr1;
+        a1.findArrays2(add, find);
 
     }
 }
