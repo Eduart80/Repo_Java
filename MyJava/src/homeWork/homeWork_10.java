@@ -40,7 +40,7 @@ public class homeWork_10 {
         coup.put(731, "Moon");
         coup.put(111, "Venus");
 
-        reaDD(coup);
+        
 
 ////////// find how many doubles
         List<String> words = new Stack<>();
@@ -83,26 +83,7 @@ public class homeWork_10 {
         }
     }
     //// method 2
-//
-     public static void reaDD(Map<Integer,String> arr){
 
-        List<String>app=new ArrayList<>();
-
-        for(int i=0; i<arr.size();i++){
-            System.out.println(arr.get(i));
-
-            for(int j=0; j<arr.size();j++){
-                if(i<j && arr.get(i)== arr.get(j)){
-                    break;
-                }
-                if(arr.get(i).equals(arr.get(j))){
-                   app.add(arr.get(j));
-                }
-            }
-            //System.out.println("last "+arr.get(i)+" ");
-        }
-         System.out.println(app);
-     }
      // from last classWork
      public static void reM(Map<Integer,String> arr) {
 
