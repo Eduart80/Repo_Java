@@ -13,6 +13,7 @@ public class mainMenu {
 
     static boolean exit;
     static shopOwner_1 a1 = new shopOwner_1();
+    static requestAShop b1 = new requestAShop();
 
     public static void runMenu(){
         printHeader();
@@ -26,7 +27,7 @@ public class mainMenu {
         System.out.println("Welcome Group 4 project");
     }
     protected static void printMenu(){
-        System.out.println("Select choice:");
+        System.out.println("\tSelect choice:");
         System.out.println("1. Request to open a new shop");
         System.out.println("2. Mall Owner");
         System.out.println("3. Shop Owner");
@@ -51,8 +52,7 @@ public class mainMenu {
                 System.out.println("\nYou are in main.");
                 break;
             case 1: // to mall request
-                requestAShop b1 = new requestAShop();
-                    b1.toOpenShop();
+                    a1.toOpenShop();
                 break;
             case 2: //to mall
                 System.out.println("\nMall");

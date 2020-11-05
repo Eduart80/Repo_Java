@@ -1,6 +1,6 @@
 package practice;
 
-public class test {
+public class intArray_find_reoeatNumber {
     public static class MaxRepeatingBruteForce {
         public void MaxRepeatingElement(int [] arrA){
             int maxCounter = 0;
@@ -21,7 +21,7 @@ public class test {
         }
 
         public static void main(String[] args) {
-            int [] arrA = {4, 1, 5, 5, 1, 5, 9, 8, 6, 5, 3, 2, 4, 7};
+            int[] arrA = {5, 1, 5, 5, 1, 5, 9, 8, 6, 5, 3, 2, 4, 7};
             MaxRepeatingBruteForce m = new MaxRepeatingBruteForce();
             m.MaxRepeatingElement(arrA);
 

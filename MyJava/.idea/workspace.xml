@@ -11,69 +11,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13830516-e9c7-4508-81ee-ee4e644b4cf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classTest/removeIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorClass/theMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorClass/theMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_4_Project/credential.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_4_Project/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_4_Project/mainMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_4_Project/mallOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_4_Project/menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_4_Project/requestAShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_4_Project/shopOwner_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs/findBigestNumb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs/findInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/arrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projectSchool/schoolMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projectSchool/schoolMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object_Classes/methodLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_Classes/methodLink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object_Classes/theMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_Classes/theMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aside/hotelRooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aside/hotelRooms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aside/printerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aside/printerMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aside/printerMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aside/printerMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classTest/myMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classTest/myMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/credential.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/credential.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/mainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/mainMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/mallOwner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/mallOwner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/requestAShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/requestAShop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/shopOwner_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/shopOwner_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/labs/lab_two.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classTest/myMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classTest/myMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/array_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/array_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/charAtsample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/charAtsample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/for_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/for_Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/if_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/if_loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/input_type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/input_type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/new_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/new_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/non_primitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/non_primitives.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/primitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/primitives.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/swith_Conditian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/swith_Conditian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/test_method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/test_method2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classWork/turnery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/turnery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/group_4_Project/abc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_4_Project/credential.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/credential.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_4_Project/mainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/mainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_4_Project/mallOwner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/mallOwner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_4_Project/menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/group_4_Project/methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/group_4_Project/user_password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/user_password.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/classMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/classMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWork1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWork2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWork_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWork_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWork_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWork_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWork_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWork_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/methodForHomeWork_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/methodForHomeWork_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/Modulus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/Modulus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/aaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/aaMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/aamethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/aamethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/car_gear_mode_program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/car_gear_mode_program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/date_time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/date_time.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/do_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/do_while.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/field_variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/field_variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/ifStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/ifStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/increment_decrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/increment_decrement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/job_intervieus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/job_intervieus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/labOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/labOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/lab_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/lab_two.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/removeSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/removeSpace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/shortCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/shortCodeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/myParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/myParent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_4_Project/requestAShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/requestAShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_4_Project/shopOwner_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/shopOwner_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs/arrayList_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/arrayList_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs/countString_howMany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/countString_howMany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs/textFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/textFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/intArray_find_reoeatNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/intArray_find_reoeatNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projectSchool/schoolMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projectSchool/schoolMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +83,33 @@
       <recent name="C:\Users\zeedy\Documents\git\Repo_Java\MyJava\src\group_4_Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mainMenu">
+  <component name="RunManager" selected="Application.schoolMain">
+    <configuration name="countString_howMany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.countString_howMany" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="labs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeWork_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.homeWork_9" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="mainMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="group_4_Project.mainMenu" />
       <module name="MyJava" />
@@ -137,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="group_4_Project.menu" />
+    <configuration name="removeIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classTest.removeIndex" />
       <module name="MyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="group_4_Project.*" />
+          <option name="PATTERN" value="classTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,39 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test_method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classWork.test_method2" />
-      <module name="MyJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classWork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="user_Password" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="group_4_Project.user_Password" />
-      <module name="MyJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="group_4_Project.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.mainMenu" />
-        <item itemvalue="Application.user_Password" />
-        <item itemvalue="Application.menu" />
-        <item itemvalue="Application.test_method2" />
         <item itemvalue="Application.schoolMain" />
+        <item itemvalue="Application.removeIndex" />
+        <item itemvalue="Application.mainMenu" />
+        <item itemvalue="Application.homeWork_9" />
+        <item itemvalue="Application.countString_howMany" />
       </list>
     </recent_temporary>
   </component>
@@ -247,26 +207,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602278750298" />
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1604252125563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604252125563" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601845087459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601845087459" />
-    <state width="1493" height="326" key="GridCell.Tab.0.bottom" timestamp="1603941147459">
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1604276944894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="326" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603941147459" />
-    <state width="1493" height="326" key="GridCell.Tab.0.center" timestamp="1603941147459">
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604276944894" />
+    <state width="1493" height="268" key="GridCell.Tab.0.center" timestamp="1604276944894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="326" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603941147459" />
-    <state width="1493" height="326" key="GridCell.Tab.0.left" timestamp="1603941147459">
+    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604276944894" />
+    <state width="1493" height="268" key="GridCell.Tab.0.left" timestamp="1604276944894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="326" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603941147459" />
-    <state width="1493" height="326" key="GridCell.Tab.0.right" timestamp="1603941147459">
+    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604276944894" />
+    <state width="1493" height="268" key="GridCell.Tab.0.right" timestamp="1604276944894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="326" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603941147459" />
+    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604276944894" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1603939094598">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

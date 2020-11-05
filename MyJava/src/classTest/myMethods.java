@@ -13,7 +13,7 @@ public class myMethods {
             }
         }
     }
-    // In test
+// In test
     public int findDelete1(int[] array, int user) {
         int missing = 0;
         for (int i = 0; i <= array.length - 1; i++) {
@@ -25,7 +25,7 @@ public class myMethods {
         return missing;
     }
     ////////////////////////////////////////////////////
-    // during test
+// during test
     public  int findMissing1(int[] arr){
         int missing = 0;
 
@@ -47,7 +47,7 @@ public class myMethods {
      }
 
 ////////////////////////////////////////////////////
-    // in test
+// in test
     public int speedLimit = 70;
     public int speed ;
     public int point = 12;

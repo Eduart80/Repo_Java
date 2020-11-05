@@ -1,13 +1,15 @@
 package group_4_Project;
 
-public class menu {
+public class menu extends mallOwner {
+/////////////////////  only practice ////////////////
 
+   static methods bb2 = new methods();
     public static void main(String[] args) {
+        mallOwner aa1 = new mallOwner();
 
-        methods menu = new methods();
-        menu.runMenu();
-        shopOwner_1 conectShop = new shopOwner_1();
-        conectShop.askRequest("Johny","Bravo","Seiko",true);
-        conectShop.information();
+        System.out.println("The shop is "+aa1.shopOpen);
+
+
     }
+
 }

@@ -35,7 +35,6 @@ public class schoolMethods {
     public void setStudentID(){
         stuID++;
         System.out.println(stuID+stuYear);
-
     }
 
 
