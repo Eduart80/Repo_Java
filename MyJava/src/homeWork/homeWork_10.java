@@ -1,59 +1,23 @@
 package homeWork;
 
-import java.security.Key;
-import java.security.KeyStore;
 import java.util.*;
 
 public class homeWork_10 {
-    /**
-     * Question 2:
-     * Create a hashMap with any numbers of key-value pairs from the user
-     * Key should be Integer
-     * Value should be String
-     * <p>
-     * Create method that will print the keys with same value, else "All keys have different values"
-     * <p>
-     * Input to method -> [{101="happy"}, {102="peace"}, {103="Happy"}, {104="learn"}, {105="PEaCe"}, {106="HAPPY"}]
-     * Output (print) ->
-     * "happy" with keys -> 101, 103, 106
-     * "peace" with keys -> 102, 105
-     * <p>
-     * Input to method -> [{111="happy"}, {98="peace"}, {10="LAugh"}, {55="learn"}, {101="Grow"}]
-     * Output (print) ->
-     * All keys have different values
-     *
-     * read value - if double -  store keys
-     */
+
     public static void main(String[] args) {
 
-///////// find how many keys in a double values
-        HashMap<Integer, String> coup = new HashMap<>();
-        coup.put(101, "Venus");
-        coup.put(150, "Tera");
-        coup.put(200, "Mars");
-        coup.put(51, "Jupiter");
-        coup.put(631, "Moon");
-        coup.put(151, "Tera");
-        coup.put(100, "Sun");
-        coup.put(120, "Tera");
-        coup.put(635, "Moon");
-        coup.put(731, "Moon");
-        coup.put(111, "Venus");
-
-        
 
 ////////// find how many doubles
         List<String> words = new Stack<>();
-        words.add("happy");
+        words.add("happy");//2
         words.add("peace");
-        words.add("joy");
+        words.add("Joy");//3
         words.add("grow");
         words.add("joy");
-        words.add("laugh");
+        words.add("laugh");//2
         words.add("happy");
-        words.add("joy");
+        words.add("jOy");
         words.add("laugh");
-        words.add("peace");
 
         findIn(words);
 
@@ -64,26 +28,28 @@ public class homeWork_10 {
         ssnData.put(1000, "Peace");
         ssnData.put(9898, "stay healthy");
         reM(ssnData);
-    }
 
+    }// End of Main
+
+    ///////// find how many doubles method
     public static void findIn(List<String> name) {
-        for (int i = 0; i < name.size(); i++) {
-            int count = 0;
-            for (int j = 0; j < name.size(); j++) {
-                if (j < i && name.get(i) == name.get(j)) {
-                    break;
-                }
-                if (name.get(i) == name.get(j)) {
+        Map<String, Integer> wordCount = new HashMap<>();
+
+        for (int i=0;i< name.size();i++) {
+            String wordsA = name.get(i);
+            int count =1;
+            for(int j=i+1;j<name.size();j++)
+                if (name.get(j).equalsIgnoreCase(wordsA)) {
                     count++;
                 }
-                if (j == name.size() - 1) {
-                    System.out.println("Found " + name.get(i) + " is present " + count + " times.");
-                }
+            if (count > 1 && !wordCount.containsKey(wordsA.toLowerCase())) {
+                wordCount.put(wordsA.toLowerCase() ,count);
             }
         }
+        System.out.println("Found " + wordCount);
     }
-    //// method 2
 
+    //// method 2
      // from last classWork
      public static void reM(Map<Integer,String> arr) {
 
