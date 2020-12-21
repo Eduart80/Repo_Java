@@ -1,14 +1,10 @@
 package classTest;
 
-import java.util.Arrays;
-
 public class removeIndex {
     public static void main(String[] args) {
         int[] array= {32, 14, 24, 98, 24, 56, 148, 24, 78, 24};
         int number = 24;
-        //System.out.println("Second "+ redo(array,number));
         redo(array,number);
-
     }
     public static int redo(int[] arrays, int user){
         int result = 0;

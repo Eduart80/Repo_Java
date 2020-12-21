@@ -1,7 +1,5 @@
 package labs;
 
-import jdk.swing.interop.SwingInterOpUtils;
-
 public class job_intervieus {
     public static void main (String[] arg){
 
@@ -16,13 +14,13 @@ public class job_intervieus {
         //inkrement
         int a = 20 ;
         a++;                        //increment by 1
-        System.out.println(a++);    //stay the same
-        System.out.println(a++);    //increment by 1
-        System.out.println(++a);    //increment by 2
-        System.out.println(a--);    //stay the same
-        System.out.println(a--);    //decrement by 1
-        System.out.println(--a);    //decrement by 2
-        System.out.println(++a);    //increment by 1
+        System.out.println("a++ "+a++);    //stay the same
+        System.out.println("a++ "+a++);    //increment by 1
+        System.out.println(++a+" ++a");    //increment by 2
+        System.out.println("a-- "+a--);    //stay the same
+        System.out.println("a-- "+a--);    //decrement by 1
+        System.out.println(--a+" --a");    //decrement by 2
+        System.out.println(++a+" ++a");    //increment by 1
 
     }
 }

@@ -7,7 +7,7 @@ public class removeSpace {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter input string to be cleaned from white spaces...!");
+        System.out.println("  Enter input string to be cleaned from white spaces...!");
 
         String inputString = sc.nextLine();
 

@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class textFile {
+public class textFileCreate {
     public static void main(String[] args) throws IOException {
 //Object will be used to create file and read in file
 //Path in Windows has (" \\ "), path in Mac and Linux has (" / ")
