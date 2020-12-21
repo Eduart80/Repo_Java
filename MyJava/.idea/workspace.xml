@@ -11,29 +11,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13830516-e9c7-4508-81ee-ee4e644b4cf4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/classWork/map_findDoubles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/credential.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/credential.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/classWork/test_method2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/mainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/mainMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/mallOwner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/mallOwner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/requestAShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/requestAShop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/shopOwner_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/group_4_Project/shopOwner_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyJava/labs/lab_two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classTest/myMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classTest/myMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/group_4_Project/credential.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/credential.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/homeWork/homeWork_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/homeWork/homeWork_11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/labs/date_time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/labs/date_time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJava/projectSchool/schoolMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyJava/projectSchool/schoolMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classTest/car_ticket_model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classTest/car_ticket_model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classWork/hset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classWork/hset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classWork/test_method2.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/group_4_Project/mainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/mainMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/group_4_Project/mallOwner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/mallOwner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/group_4_Project/menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/group_4_Project/methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/group_4_Project/requestAShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/requestAShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/group_4_Project/shopOwner_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_4_Project/shopOwner_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/arrayList_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/arrayList_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/countString_howMany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/countString_howMany.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/textFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/textFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/intArray_find_reoeatNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/intArray_find_reoeatNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projectSchool/schoolMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projectSchool/schoolMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/classHomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/classHomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWork_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWork_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs/date_time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/date_time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs/map_Find_Double.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/map_Find_Double.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/testHashMapWithDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/testHashMapWithDouble.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +76,13 @@
       <recent name="C:\Users\zeedy\Documents\git\Repo_Java\MyJava\src\group_4_Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.schoolMain">
-    <configuration name="countString_howMany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.countString_howMany" />
+  <component name="RunManager" selected="Application.mainMenu">
+    <configuration name="homeWork_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.homeWork_11" />
       <module name="MyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.*" />
+          <option name="PATTERN" value="homeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeWork_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.homeWork_9" />
+    <configuration name="if_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classWork.if_loop" />
       <module name="MyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.*" />
+          <option name="PATTERN" value="classWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classTest.removeIndex" />
+    <configuration name="map_Find_Double" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.map_Find_Double" />
       <module name="MyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classTest.*" />
+          <option name="PATTERN" value="labs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="schoolMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="projectSchool.schoolMain" />
+    <configuration name="map_findDoubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classWork.map_findDoubles" />
       <module name="MyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="projectSchool.*" />
+          <option name="PATTERN" value="classWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.schoolMain" />
-        <item itemvalue="Application.removeIndex" />
         <item itemvalue="Application.mainMenu" />
-        <item itemvalue="Application.homeWork_9" />
-        <item itemvalue="Application.countString_howMany" />
+        <item itemvalue="Application.map_findDoubles" />
+        <item itemvalue="Application.homeWork_11" />
+        <item itemvalue="Application.map_Find_Double" />
+        <item itemvalue="Application.if_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -207,46 +200,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602278750298" />
-    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1604252125563">
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1604781496167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604252125563" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601845087459">
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604781496167" />
+    <state x="729" y="198" key="FileChooserDialogImpl" timestamp="1604967378612">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601845087459" />
-    <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1604276944894">
+    <state x="729" y="198" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604967378612" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1604975205858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604276944894" />
-    <state width="1493" height="268" key="GridCell.Tab.0.center" timestamp="1604276944894">
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604975205858" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1604975205858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604276944894" />
-    <state width="1493" height="268" key="GridCell.Tab.0.left" timestamp="1604276944894">
+    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604975205858" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1604975205858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604276944894" />
-    <state width="1493" height="268" key="GridCell.Tab.0.right" timestamp="1604276944894">
+    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604975205858" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1604975205858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604276944894" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1603939094598">
+    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604975205858" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1604975205859">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603939094598" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1603939094598">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604975205859" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1604975205858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603939094598" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1603939094598">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604975205858" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1604975205858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603939094598" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1603939094598">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604975205858" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1604975205858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603939094598" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604975205858" />
+    <state x="513" y="115" key="RollbackChangesDialog" timestamp="1604457693265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604457693265" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1602445596189">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -263,13 +260,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="43" y="0" width="1507" height="810" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602201527790" />
-    <state x="360" y="33" key="new project wizard" timestamp="1601845090557">
+    <state x="695" y="46" width="816" height="743" key="new project wizard" timestamp="1604967386132">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="360" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601845090557" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603937315211">
+    <state x="695" y="46" width="816" height="743" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604967386132" />
+    <state x="469" y="170" key="refactoring.ChangeSignatureDialog" timestamp="1604364409176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603937315211" />
+    <state x="469" y="170" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1604364409176" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604624330822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604624330822" />
   </component>
 </project>

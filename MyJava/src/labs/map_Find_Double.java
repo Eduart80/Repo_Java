@@ -2,7 +2,7 @@ package labs;
 
 import java.util.*;
 
-public class arrayList {
+public class map_Find_Double {
     public static void main(String[] args) {
        String[] words = {"happy", "peace", "joy", "happy","grow", "joy", "laugh", "HaPpy","joy", "laugh", "joy"};
         //String[] words = {"jon", "peace","joy", "joy", "happy"};

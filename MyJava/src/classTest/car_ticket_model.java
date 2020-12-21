@@ -1,8 +1,8 @@
 package classTest;
 
-public class hhhh {
+public class car_ticket_model {
     public static void main(String[] args) {
-        int userspeed = 88;
+        int userspeed = 130;
         speed(userspeed);
         points(userspeed);
     }
@@ -21,9 +21,9 @@ public class hhhh {
             {
                 res = (speed-speedLimit)/5;
                 point= point-res;
-            }if(point<0){
-                System.out.println("You have no more points in your licence.");
-            }
+                    if(point<=0){
+                        System.out.println("You have no more points in your licence.");
+            }}
             System.out.println("you have "+point+" points.");
         }
 

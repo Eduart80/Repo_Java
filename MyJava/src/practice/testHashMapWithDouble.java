@@ -1,2 +1,6 @@
-package practice;public class testHashMapWithDouble {
+package practice;
+
+public class testHashMapWithDouble {
+
+
 }

@@ -1,14 +1,24 @@
 package group_4_Project;
 
-import java.util.InputMismatchException;
-import java.util.Scanner;
+import group_4_Project.shop_NewEntry.credential;
+import group_4_Project.shop_NewEntry.shopOwner_1;
+
+import java.util.*;
 /////////////////////  only practice ////////////////
 // Update : test on scanner in request
 
 public class methods {
+
+
     public static void main(String[] args) {
         runMenu();
-    }
+
+
+
+
+    }//End of Main
+
+
 
         protected static String firstName = "n";
         protected static String lastName = "n";
@@ -34,12 +44,16 @@ public class methods {
                 String b = sh2.next();
 
                 // verification of user & pass
+
                 if (a.equals("j") || (b.equals("9"))){
                     System.out.println("Welcome " + firstName);
-                }else  {
-                    System.out.println("Wrong information, please try again.");
+                }else {
+                    System.out.println("Wrong information, please try again. ");
                     return;
                 }
+
+
+
             }catch (InputMismatchException e){
                 System.out.println("Wrong input. GOODBYE");
                 System.exit(0); //out from the program
@@ -163,30 +177,55 @@ public class methods {
                 toOpenShop();
                 break;
             case 2: //to mall
-                System.out.println("\nMall");
+                shopMain();
                 break;
             case 3: // to shop
-                a1.shopMain();
+
+
                 break;
             case 4: //costumer
-                a1.information(); //info from shop owner field vars
+
+                System.out.println("Add a product");
+                Scanner inAdd = new Scanner(System.in);
+
+                listOfItems(inAdd.next());
+                System.out.println();
+
                 break;
             default: //error
                 System.out.println("Unexpected error ");
                 break;
         }
     }
+    public static void listOfItems(String allItemsStore1) {
+        List<String>allItems=new ArrayList<>();
+        allItems.add("Bob");
+        allItems.add("Pro");
+        allItems.add("High");
+        allItems.add("Middle");
+        allItems.add("Watch");
+        allItems.add("Round-Table");
+        allItems.add("Table A");
+        allItems.add("Wall-Watch");
+        allItems.add("Square-Table");
 
+        System.out.println(allItems);
+    }
+
+
+
+
+    public static void stockhere (){
+
+    }
+
+
+    public static void addInProduct(String user){
+       listOfItems("Hello");
+
+    }
 
 }
 
-
-//    public void inLoops(boolean isTrue){
-//        if(isTrue){
-//            System.out.println("memo per ty ...");
-//        }else if(isTrue){
-//            System.out.println("Next line ");
-//        }
-//    }
 
 

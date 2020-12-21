@@ -42,9 +42,9 @@ public class homeWork_10 {
                 if (name.get(j).equalsIgnoreCase(wordsA)) {
                     count++;
                 }
-            if (count > 1 && !wordCount.containsKey(wordsA.toLowerCase())) {
-                wordCount.put(wordsA.toLowerCase() ,count);
-            }
+                if (count > 1 && !wordCount.containsKey(wordsA.toLowerCase())) {
+                    wordCount.put(wordsA.toLowerCase() ,count);
+                }
         }
         System.out.println("Found " + wordCount);
     }

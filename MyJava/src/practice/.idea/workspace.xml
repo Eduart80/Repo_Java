@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce95a1e0-9530-4920-8474-d700e8884432" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../classWork/map_findDoubles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShopMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/MyJava/classWork/test_method2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/MyJava/group_4_Project/mainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/MyJava/group_4_Project/mainMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/MyJava/homeWork/homeWork_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/MyJava/homeWork/homeWork_11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/MyJava/labs/date_time.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/MyJava/labs/date_time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/MyJava/projectSchool/schoolMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/MyJava/projectSchool/schoolMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classTest/car_ticket_model.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classTest/car_ticket_model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classWork/hset.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classWork/hset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classWork/test_method2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/credential.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop_NewEntry/credential.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mallOwner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopOwner_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop_NewEntry/shopOwner_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork/classHomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork/classHomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork/homeWork_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork/homeWork_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/date_time.java" beforeDir="false" afterPath="$PROJECT_DIR$/../labs/date_time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/map_Find_Double.java" beforeDir="false" afterPath="$PROJECT_DIR$/../labs/map_Find_Double.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/testHashMapWithDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/testHashMapWithDouble.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kwXs2OQJf1RWvL83JaUKpIYClT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce95a1e0-9530-4920-8474-d700e8884432" name="Default Changelist" comment="" />
+      <created>1606612830965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606612830965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
