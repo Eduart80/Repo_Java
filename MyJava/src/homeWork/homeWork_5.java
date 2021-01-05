@@ -1,7 +1,5 @@
 package homeWork;
 
-import java.util.Arrays;
-
 public class homeWork_5 {
     public static void main(String[] args) {
         // Subject - Homework-5
