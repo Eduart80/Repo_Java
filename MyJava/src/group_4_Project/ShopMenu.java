@@ -1,5 +1,6 @@
 package group_4_Project;
 
+import group_4_Project.Other.requestAShop;
 import group_4_Project.shop_2.shopOwner2;
 import group_4_Project.shop_3.shopOwner3;
 import group_4_Project.shop_4.shopOwner4;

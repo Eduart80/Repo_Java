@@ -3,13 +3,13 @@ package projectSchool;
 import java.util.Scanner;
 
 public class schoolMethods {
-    private static String fistName;
-    private static String lastName;
-    private int stuYear = 0;
-    private int stuID = 100;
-    private String stuCourse = "";
-    private double tuitionBalance = 0;
-    private double costOfCourse = 600;
+    public static String fistName;
+    public static String lastName;
+    public int stuYear = 0;
+    public int stuID = 100;
+    public String stuCourse = "";
+    public double tuitionBalance = 0;
+    public double costOfCourse = 600;
 
 
     public schoolMethods(){

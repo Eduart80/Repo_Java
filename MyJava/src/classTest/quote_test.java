@@ -6,6 +6,6 @@ public class quote_test {
         System.out.printf("Is \"%s\"",find(name));
     }
     public static String find(String name){
-        return "Hello "+name;
+        return "Hello "+ name;
     }
 }

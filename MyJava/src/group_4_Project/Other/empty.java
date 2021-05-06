@@ -1,6 +1,5 @@
-package group_4_Project;
+package group_4_Project.Other;
 
-import javax.sound.midi.Soundbank;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;

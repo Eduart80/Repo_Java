@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class schoolMain {
     public static void main(String[] args) {
+        //you anter n number of students in an array
 
         //Ask how many students
         System.out.println("How many students need to add?");
@@ -12,7 +13,7 @@ public class schoolMain {
             if (inStudent.hasNextInt()) {
                 int enterStu = inStudent.nextInt();
                 isStu=enterStu;
-                break;
+                break;    /////// handling scanner exceptions with .hasNextInt()
             }else {
                 System.out.println("Enter only numbers");
             }

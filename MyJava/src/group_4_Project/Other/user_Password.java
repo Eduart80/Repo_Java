@@ -1,7 +1,5 @@
-package group_4_Project;
+package group_4_Project.Other;
 
-import java.io.File;
-import java.nio.file.Path;
 import java.util.Scanner;
 
 public class user_Password {

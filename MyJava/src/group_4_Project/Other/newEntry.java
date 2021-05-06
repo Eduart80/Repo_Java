@@ -1,4 +1,4 @@
-package group_4_Project;
+package group_4_Project.Other;
 
 import java.util.HashMap;
 import java.util.Map;

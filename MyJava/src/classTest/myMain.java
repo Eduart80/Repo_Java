@@ -1,5 +1,7 @@
 package classTest;
 
+import java.util.Arrays;
+
 public class myMain {
     public static void main(String[] args) {
         myMethods a1 = new myMethods();
@@ -20,6 +22,12 @@ public class myMain {
         a1.speed(userspeed);
         a1.points(userspeed);
 
+        test3 ne = new test3();
+        System.out.println( ne.isSpecial("from other "));
+
+        int[] a={2,3};
+        int[] b= {4,5};
+        System.out.println(Arrays.toString(ne.merge(a, b)));
 
 
     }

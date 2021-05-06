@@ -1,6 +1,6 @@
 package group_4_Project.shop_NewEntry;
 
-import group_4_Project.menu;
+import group_4_Project.Other.menu;
 
 import java.util.Scanner;
 

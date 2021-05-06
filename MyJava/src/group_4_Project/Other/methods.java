@@ -1,4 +1,4 @@
-package group_4_Project;
+package group_4_Project.Other;
 
 import group_4_Project.shop_NewEntry.credential;
 import group_4_Project.shop_NewEntry.shopOwner_1;

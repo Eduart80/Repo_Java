@@ -2,7 +2,7 @@ package classTest;
 
 public class car_ticket_model {
     public static void main(String[] args) {
-        int userspeed = 130;
+        int userspeed = 78;
         speed(userspeed);
         points(userspeed);
     }
