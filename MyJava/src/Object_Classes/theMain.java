@@ -1,6 +1,6 @@
 package Object_Classes;
 
-import homeWork.classMethod;
+import sampleWork1.classMethod;
 
 public class theMain {
     public static void main(String[] args) {

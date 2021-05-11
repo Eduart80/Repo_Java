@@ -51,7 +51,6 @@ public class shopOwner2 {
                             ShopMenu.runMenu();
                         }
                     }
-
                 }
             }catch (InputMismatchException e){
                 System.out.println("Wrong input. GOODBYE");
