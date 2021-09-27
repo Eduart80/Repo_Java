@@ -1,6 +1,5 @@
 package aside;
 
-import labs.aamethod;
 import java.util.Scanner;
 
 public class printerMain {
@@ -17,7 +16,7 @@ public class printerMain {
                     Scanner inputInk = new Scanner(System.in);
                     System.out.println("Ink low, do you want to continue? (Y), (N)");
                     char Y = inputInk.next().charAt(0);
-                    if(Y == 'y'){
+                    if(Y == 'y' || Y == 'Y'){
                         //enter ink
                         a1.inkUpdate();
                         Scanner inputInk2 = new Scanner(System.in);
@@ -31,7 +30,7 @@ public class printerMain {
                         Scanner inputPaper1 = new Scanner(System.in);
                         System.out.println("No more paper, do you want to refill? (Y), (N)");
                         char Y = inputPaper1.next().charAt(0);
-                        if(Y == 'y'){
+                        if(Y == 'y' || Y == 'Y'){
                             //enter paper
                             a1.paperUpdate();
                             Scanner inputPaper3 = new Scanner(System.in);
@@ -45,7 +44,7 @@ public class printerMain {
         System.out.println("Type (S) Single page or (D) Double page");
         Scanner entry = new Scanner(System.in);
         char c = entry.next().charAt(0);
-        if (c == 's'){
+        if (c == 's' || c == 'C'){
 
             //printer status
             Scanner input = new Scanner(System.in);
@@ -61,7 +60,7 @@ public class printerMain {
                 Scanner inputInk = new Scanner(System.in);
                 System.out.println("Enter it now... (Y), (N)");
                 char Y = entry.next().charAt(0);
-                if(Y == 'y'){
+                if(Y == 'y' || Y == 'Y'){
                     //enter toner
                     a1.inkUpdate();
                     Scanner inputInk8 = new Scanner(System.in);
@@ -75,7 +74,7 @@ public class printerMain {
                 Scanner inputPaper = new Scanner(System.in);
                 System.out.println("No more paper, do you want to refill? (Y), (N)");
                 char Y = entry.next().charAt(0);
-                if(Y == 'y'){
+                if(Y == 'y' || Y == 'Y'){
                     //enter paper
                     a1.paperUpdate();
                     Scanner inputInk9 = new Scanner(System.in);
@@ -88,7 +87,7 @@ public class printerMain {
             }
         }
         ///// double selection
-        else if (c == 'd'){
+        else if (c == 'd' || c == 'D'){
             a1.Levels();
             //enter page to print
             Scanner input = new Scanner(System.in);
@@ -103,7 +102,7 @@ public class printerMain {
                 Scanner inputInk = new Scanner(System.in);
                 System.out.println("Enter it now... (Y), (N)");
                     char Y = entry.next().charAt(0);
-                    if(Y == 'y'){
+                    if(Y == 'y' || Y == 'Y'){
                         //enter toner
                         a1.inkUpdate();
                         Scanner inputInk8 = new Scanner(System.in);
@@ -118,7 +117,7 @@ public class printerMain {
                 Scanner inputInk = new Scanner(System.in);
                 System.out.println("No more paper, do you want to refill? (Y), (N)");
                 char Y = entry.next().charAt(0);
-                if(Y == 'y'){
+                if(Y == 'y' || Y == 'Y'){
                     //enter paper
                     a1.paperUpdate();
                     Scanner inputInk1 = new Scanner(System.in);

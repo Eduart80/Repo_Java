@@ -1,27 +1,30 @@
 package classTest;
 
+import java.util.Arrays;
+
 public class test3 {
 
-//    public static void main(String[] args) {
-//        System.out.println(is"12345Ha");
-//    }
+    public static void main(String[] args) {
+        System.out.println( alterText("Albania"));
+        int[] A = new int[]{2,3};
+        int[] B = new int[]{4,5};
+        System.out.println(Arrays.toString( merge(A, B)));
+    }
 
-
-
-    public boolean isSpecial(String text){
+    public static boolean isSpecial(String text){
         String tempText = alterText(text);
         return text.equals(tempText);
     }
-
-    private String alterText(String inputText) {
+// reverse string text
+    private static String alterText(String inputText) {
         if(inputText == null || inputText.isEmpty()){
             return inputText;
         }
         return inputText.charAt(inputText.length()-1) + alterText(inputText.substring( 0, inputText.length()-1));
     }
 
-
-       public int[] merge ( int[] a, int[] b){
+// murge two arrays
+       public static int[] merge(int[] a, int[] b){
             int[] result = new int[a.length + b.length];
             for (int i = 0; i < a.length; i++) {
                 result[2 * i] = a[i];

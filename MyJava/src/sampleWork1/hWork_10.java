@@ -31,7 +31,7 @@ public class hWork_10 {
 
     }// End of Main
 
-    ///////// find how many doubles method
+    ///////// find how many doubles values in the main method
     public static void findIn(List<String> name) {
         Map<String, Integer> wordCount = new HashMap<>();
 

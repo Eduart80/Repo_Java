@@ -83,18 +83,18 @@ public class printerMethods {
 //            (newEntry *2) this is used with numrat double
     public void userInkDouble(int newEntry){
         toner = toner - (newEntry *2 + 1);
-        System.out.println("Toner level "+toner);
+        System.out.println("Toner level "+ toner);
         if(toner<10){
             System.out.println("Ink level Low, please refill toner.");
         }
     }
     public void inkUpdate(){
-        if(toner<0){
+        if(toner<=0){
             toner=0;
         }
     }
     public void paperUpdate(){
-        if(page<0){
+        if(page<=0){
             page=0;
         }
     }
