@@ -20,8 +20,6 @@ public class ClassB implements ClassA{
         System.out.println(name );
     }
 
-
-
 }
 interface ClassA{
     public void init();

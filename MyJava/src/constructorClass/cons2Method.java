@@ -6,7 +6,7 @@ public class cons2Method {
     String lastName;
     int age;
     int account;
-
+// this is called parameterize constructor
     cons2Method(String firstName, String lastName, int age, int account){
 
         this.firstName = firstName;

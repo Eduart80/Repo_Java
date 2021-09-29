@@ -2,8 +2,8 @@ package constructorClass;
 
 public class cons2Main {
     public static void main(String[] args){
-        String name= "firstName";
-        String last = "lastName";
+        String name= "Tommy";
+        String last = "Highlander";
         int age = 20;
         int account = 1;
 
