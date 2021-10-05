@@ -8,5 +8,6 @@ public class arrayTest {
         int adAll = arr[0] + arr[1]; // add index 1 + index 2
         result = adAll;
         return result;
+
     }
 }
