@@ -1,5 +1,11 @@
 package practice;
 
+/**
+ * Class A is Interface
+ * Class B implement Class A
+ * Class C extend Class B
+ * Class D is abstract
+ */
 public class ClassB implements ClassA{
 
     @Override
@@ -19,7 +25,6 @@ public class ClassB implements ClassA{
     public static void moli(String name){
         System.out.println(name );
     }
-
 }
 interface ClassA{
     public void init();
@@ -34,5 +39,28 @@ class ClassC extends ClassB{
         aa.notWell();
         aa.doli();
         ClassB.moli("Moli");
+
+        ClassE ee = new ClassE();
+        System.out.println("Field variable = "+ee.abc);
+        ee.animal("Tomy");
+        ee.normal();
+    }
+}
+// abstract class
+abstract class ClassD extends ClassB{
+    String abc= "Abs";
+    //abstract method
+    public abstract void animal(String name);
+    //normal method
+    public void normal(){
+        System.out.println("From abstract method Class D");
+    }
+
+}
+class ClassE extends ClassD{
+    @Override
+    public void animal(String name) {
+        name = "tom";
+        System.out.println("Animal name is = "+name);
     }
 }

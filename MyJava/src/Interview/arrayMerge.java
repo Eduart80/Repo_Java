@@ -1,29 +1,24 @@
 package Interview;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class arrayMerge {
 
     public static void main(String[] args) {
-        String[] names1 = new String[] {"Ava", "Emma","zed", "Olivia"};
-        String[] names2 = new String[] {"Olivia", "Sophia", "Emma"};
-        System.out.println( uniqueNames(names1, names2));
-
-        //System.out.println(String.join( ", ", mut));
-        // should print Ava, Emma, Olivia, Sophia
+        String[] names1 = new String[] {"Eva", "Emma","zed", "Eva", "Olivia"};
+        String[] names2 = new String[] {"God","Olivia", "Sophia","Eva", "Emma", "God"};
+        System.out.println(uniqueNames(names1,names2) );
     }
     // string arrays
-    public static List<String[]> uniqueNames(String[] names1, String[] names2) {
-
-//        List<String> mut = Arrays.asList(names1);
-//             mut.add(Arrays.toString(names2));
-        List<String[]> nn = new ArrayList<>(Collections.singleton(names1));
-        nn.add(names2);
-//        String[] ss = nn.toArray(String[]::new);
-//        System.out.println(Arrays.toString(ss));
-        return nn;
+    public static Set<String> uniqueNames(String[] names1, String[] names2) {
+        Set<String> unicName = new HashSet<>();
+        for (String dd : names1) {
+            unicName.add(dd);
+         }
+        for (String dd : names2) {
+            unicName.add(dd);
+        }
+        return unicName;
     }
 
     // merge two int arrays
