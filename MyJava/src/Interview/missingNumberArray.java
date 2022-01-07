@@ -4,8 +4,7 @@ import java.util.Arrays;
 
 public class missingNumberArray {
     public static void main(String[] args) {
-        //how many strings object will be created?
-       // String n1 = new String("Hello 1");
+        
 /**
  * Given an array nums containing n distinct numbers in the range [0, n],
  * return the only number in the range that is missing from the array.
@@ -19,9 +18,11 @@ public class missingNumberArray {
         int[] nums1 ={1,3,4,6,8};
         int[] nums2 ={2,4,0,7,8,9,10};
         int[] nums3 ={0,1,3};
+
         // only one missing number
         // (formula = (N * (N+1))/2 )
         int[] nums ={3,0,4,5,1};
+
         System.out.println("Single: "+findMising(nums));
         findMising22(nums1);
         Arrays.sort(nums2);
