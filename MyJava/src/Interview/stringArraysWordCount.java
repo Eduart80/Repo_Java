@@ -24,7 +24,7 @@ public class stringArraysWordCount {
         for (int i = 0; i < N; i++){
             String intSplit = input[i];
             String[] splitString = intSplit.split(" ");
-            System.out.println("Words at index "+ i + " is " +splitString.length);
+            System.out.println("Words count at index "+ i + " is " +splitString.length);
         }
 
     }
@@ -33,7 +33,7 @@ public class stringArraysWordCount {
         for (String read : input) {
             String result = new StringBuffer(read).reverse().toString();
             if (read.equals(result)) {
-                System.out.println(result);
+                System.out.println("First palindrome found is "+result);
                 break;
             }
         }
