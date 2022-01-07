@@ -6,8 +6,10 @@ public class backspaceInStrings {
     private static int backSpace(String s1, String s2){
         boolean res = reform(s1).equals(reform(s2));
         if(res){
-            return 1;
-        }return 0;
+          return 1;
+        }  return 0;
+
+
     }
 
     private static String reform(String S){

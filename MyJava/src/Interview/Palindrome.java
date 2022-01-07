@@ -17,7 +17,8 @@ public class Palindrome {
             return false;
         }
     }
-
+    // first check if input is correct
+        // need some adjustments, need to verify if empty input is passing through
     private static String reverse(String input) {
         if(input == null || input.isEmpty()){
             return input;

@@ -7,7 +7,7 @@ import java.util.Set;
 public class findDoubleChar {
 
     public static void main(String[] args) {
-    printDoublicate("java");
+    printDoublicate("java is awesome");
     }
     public static void printDoublicate(String str){
         if (str == null){

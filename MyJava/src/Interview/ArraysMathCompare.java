@@ -1,6 +1,7 @@
 package Interview;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 // Array 1 = {2}, and array 2={5} (5-2=3)
 // compare index 1 in Array1 with index 1 of Array2
@@ -8,18 +9,19 @@ import java.util.List;
 public class ArraysMathCompare {
     public static void main(String[] args) {
         List<Integer>arr1 =new ArrayList<>();
-        arr1.add(1);
-        arr1.add(432);
+        arr1.add(2);
+        arr1.add(22);
         arr1.add(8765);
         arr1.add(9);
 
         List<Integer>arr2 =new ArrayList<>();
-        arr2.add(9);
-        arr2.add(678);
+        arr2.add(1);
+        arr2.add(11);
         arr2.add(2345);
         arr2.add(1);
 
         returnVal(arr1, arr2);
+
     }
     public static void returnVal(List<Integer> arr1, List<Integer> arr2) {
 
@@ -27,7 +29,8 @@ public class ArraysMathCompare {
         for (int j = 0; j <= arr1.size() - 1; j++) {
             int a = arr1.get(j);
             String number = String.valueOf(arr1.get(j));
-            String[] digits = number.split("");
+            String[] digits = number.split(",");
+            System.out.println("to digits: "+ Arrays.toString(digits));
 
             int zz = 1;
             for(int z = digits.length; z > 0 ; --z){
@@ -48,7 +51,7 @@ public class ArraysMathCompare {
 
             int b = arr2.get(f);
             String number2 = String.valueOf(arr2.get(f));
-            String[] digits2 = number2.split("");
+            String[] digits2 = number2.split(",");
 
             int zz = 1;
             for(int g = digits2.length; g > 0 ; --g){

@@ -31,6 +31,7 @@ public class FizzBuzz {
 
         // fizzbuzz on every 5 or 7
         fizzBazzAfter(20);
+
     }
     //NEW Java 8
     private static void fizzBazzAfter(int nmb){
@@ -38,6 +39,5 @@ public class FizzBuzz {
                 .mapToObj(i -> i % 5 == 0 ? (i % 7 == 0 ? "FizzBuzz" : "Fizz") : (i % 7 == 0 ? "Buzz" : i))
                 .forEach(System.out::println);
     }
-
 
 }

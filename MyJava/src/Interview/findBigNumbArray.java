@@ -18,7 +18,7 @@ public class findBigNumbArray {
     public static void findMax(int[] count){
         int result = 0;
         for (int i=0; i<count.length; i++){
-            if(result<count[i]){
+            if(result < count[i]){
                 result = count[i];
             }
         }
