@@ -24,7 +24,7 @@ public class stringArraysWordCount {
         for (int i = 0; i < N; i++){
             String intSplit = input[i];
             String[] splitString = intSplit.split(" ");
-            System.out.println("Words a index "+ i + " is " +splitString.length);
+            System.out.println("Words at index "+ i + " is " +splitString.length);
         }
 
     }
