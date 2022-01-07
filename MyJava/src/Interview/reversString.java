@@ -17,7 +17,7 @@ public class reversString {
             d[indexOfString] = n.charAt(i);
             indexOfString++;
         }
-        System.out.println("midle "+ Arrays.toString(d));  //output as array
+        System.out.println("middle "+ Arrays.toString(d));  //output as array
 
         String res = "";
         for(int i= 0; i< n.length();i++){

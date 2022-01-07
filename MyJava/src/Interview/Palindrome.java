@@ -11,6 +11,7 @@ public class Palindrome {
 
     private static boolean isPalindrome(String name) {
         String rev = reverse(name).toLowerCase();
+        System.out.println(rev);
         if(name.toLowerCase().equals(rev)){
             return true;
         }else{
