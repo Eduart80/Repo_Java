@@ -21,11 +21,8 @@ public class stringArraysWordCount {
         int[] nuum = {8,1,2,2,3};
         findSmaller(nuum);
         // 5 // Given an array of nums and each integer appears once or twice, return an array of all the integers that appears twice.
-        int[] numDouble = {4,3,2,7,8,2,3,1,8};
-        //Output: [2,3]
-        //Example 2:
+        int[] numDouble = {4,3,2,7,8,2,3,1};
         int[] numbers2 = {1,1,2};
-        //Output: [1]
         findDouble(numDouble);
         findDouble(numbers2);
     }
@@ -82,7 +79,7 @@ public class stringArraysWordCount {
     }
     // 5
     static void findDouble(int[] numb){
-        List<Integer> res = new ArrayList<Integer>();
+        List<Integer> res = new ArrayList<>();
         for(int i = 0; i < numb.length; i++){
            for (int j = i + 1; j < numb.length; j++){
                if(numb[i] == numb[j]){
