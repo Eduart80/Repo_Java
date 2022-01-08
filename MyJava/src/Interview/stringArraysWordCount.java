@@ -1,5 +1,8 @@
 package Interview;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class stringArraysWordCount {
 
     public static void main(String[] args) {
@@ -17,6 +20,14 @@ public class stringArraysWordCount {
         // 4 // for each nums[i] find out how many numbers in the array are smaller than it
         int[] nuum = {8,1,2,2,3};
         findSmaller(nuum);
+        // 5 // Given an array of nums and each integer appears once or twice, return an array of all the integers that appears twice.
+        int[] numDouble = {4,3,2,7,8,2,3,1,8};
+        //Output: [2,3]
+        //Example 2:
+        int[] numbers2 = {1,1,2};
+        //Output: [1]
+        findDouble(numDouble);
+        findDouble(numbers2);
     }
     // 1
     public static void splitString(String[] input){
@@ -68,5 +79,16 @@ public class stringArraysWordCount {
             }
 
         }
+    }
+    // 5
+    static void findDouble(int[] numb){
+        List<Integer> res = new ArrayList<Integer>();
+        for(int i = 0; i < numb.length; i++){
+           for (int j = i + 1; j < numb.length; j++){
+               if(numb[i] == numb[j]){
+                   res.add(numb[i]);
+               }
+           }
+        } System.out.println(res);
     }
 }
