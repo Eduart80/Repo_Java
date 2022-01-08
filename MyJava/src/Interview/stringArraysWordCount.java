@@ -20,10 +20,12 @@ public class stringArraysWordCount {
         int[] nuum = {8,1,2,2,3};
         findSmaller(nuum);
         // 5 // Given an array of nums and each integer appears once or twice, return an array of all the integers that appears twice.
-        int[] numDouble = {4,3,2,7,8,2,3,1};
+        int[] numDouble = {4,3,2,7,8,2,3,1,1,1,1}; // number 1 is present 4 times in array
         int[] numbers2 = {1,1,2};
+        int[] numbers3 = {1,2,3,4,5,6,7};
         findDouble(numDouble);
         findDouble(numbers2);
+        findDouble(numbers3);
     }
     // 1
     public static void splitString(String[] input){
@@ -87,6 +89,8 @@ public class stringArraysWordCount {
                }
            }
         }
-        System.out.println(res);
+        if(res.isEmpty()){
+            System.out.println("No doubles in this array");
+        }else System.out.println(res);
     }
 }
