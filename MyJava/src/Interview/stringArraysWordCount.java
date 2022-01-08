@@ -1,7 +1,6 @@
 package Interview;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class stringArraysWordCount {
 
@@ -79,13 +78,15 @@ public class stringArraysWordCount {
     }
     // 5
     static void findDouble(int[] numb){
-        List<Integer> res = new ArrayList<>();
+        // if more than two numbers Set will kip only one record
+        Set<Integer>res = new HashSet<>();
         for(int i = 0; i < numb.length; i++){
            for (int j = i + 1; j < numb.length; j++){
                if(numb[i] == numb[j]){
                    res.add(numb[i]);
                }
            }
-        } System.out.println(res);
+        }
+        System.out.println(res);
     }
 }
