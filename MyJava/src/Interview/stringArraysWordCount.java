@@ -8,7 +8,7 @@ public class stringArraysWordCount {
        // 1 // given an array of strings sentences, count the words
         String[] setA = {"alice and bob love livecode", "i think so too", "this is great thanks very much"};
         splitString(setA);
-
+        //
        // 2 //Given an array of strings words, return the first palindromic string in the array
         String[] words = {"abc","car","ada","racecar","cool"};
         findPolindrome(words);
