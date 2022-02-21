@@ -53,11 +53,10 @@ public class stringArraysWordCount {
 
         for (int i = 0; i < numb.length; i++){
             for (int j = 1; j < numb.length ; j++){
-               int resole = numb[i] + numb[j];
-                if(value == resole){
-                    System.out.println("Index "+ i +" and "+ j + " = "+ resole);
+               int resolv = numb[i] + numb[j];
+                if(value == resolv){
+                    System.out.println("Index "+ i +" and "+ j + " = "+ resolv);
                 }
-
             }
         }
     }

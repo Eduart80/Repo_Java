@@ -12,5 +12,7 @@ public class testBMW {
         Car.colorWhite();
         Car f = new BMW();
         f.color();
+
+        System.out.println( Regullat.year);
     }
 }
