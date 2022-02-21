@@ -79,7 +79,6 @@ public class stringArraysWordCount {
     }
     // 5
     static void findDouble(int[] numb){
-        // if more than two numbers Set will kip only one record
         Set<Integer>res = new HashSet<>();
         for(int i = 0; i < numb.length; i++){
            for (int j = i + 1; j < numb.length; j++){
